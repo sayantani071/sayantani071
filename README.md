@@ -1,3 +1,30 @@
+```html
+<div class="gif-container">
+    <iframe
+        src="https://giphy.com/embed/ZSC7Padc60Irbs24gd"
+        allowfullscreen>
+    </iframe>
+</div>
+
+<style>
+    .gif-container {
+        position: relative;
+        width: 100%;
+        max-width: 480px;
+        margin: auto;
+        aspect-ratio: 480 / 451;
+    }
+
+    .gif-container iframe {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        border: 0;
+    }
+</style>
+```
+
+
 # 💫 About Me:
 :<br>🔭 I’m currently working on Where is my bus<br>🌱 I’m currently learning Frameworks, Pandas (in python) and ML<br>🤝 I’m looking for help with Levlup.ai<br>👨‍💻 All of my projects are available at https://github.com/sayantani071?tab=repositories<br>💬 Ask me about Python , C , Mysql, Supabase,Firebase<br>📫 How to reach me sayantanissinha51@gmail.com<br><br><br>
 
