@@ -1,4 +1,4 @@
-```html
+html
 <div class="gif-container">
     <iframe
         src="https://giphy.com/embed/ZSC7Padc60Irbs24gd"
@@ -22,7 +22,7 @@
         border: 0;
     }
 </style>
-```
+
 
 
 # 💫 About Me:
